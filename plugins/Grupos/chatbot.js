@@ -40,7 +40,7 @@ let chat = global.db.data.chats[m.chat]
 let name = conn.getName(m.sender)
 const user = `@${m.sender.split`@`[0]}`;
 if (chat.isBanned) return
-let vn = 'https://qu.ax/eGdW.mp3'
+let vn = './media/bot.mp3'
 let bot = `${pickRandom([`*Hola ${user} soy un bot el que puedo ayudar? 👉👈*`, `Aqui estoy`, `bot tu abuela`, `que quiere?`, `No dispoble 🫣`, `Hola aqui estoy soy tu botsito sexy el que puedo ayudar uwu`])}
 `.trim()//`
 let txt = `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa Host"\`*
