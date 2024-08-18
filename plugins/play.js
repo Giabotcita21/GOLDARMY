@@ -52,7 +52,7 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
       throw `*[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
     }
 
-    const dataMessage = `𝙀𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇 \n\n\n𝙇𝙄𝙉𝙆: ${data.resultado.url}`.trim();  
+    const dataMessage = `𝙀𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇 \n𝙇𝙄𝙉𝙆: > ${data.resultado.url}`.trim();  
     if (!text.includes('SN@') && command !== 'playyt') await conn.sendMessage(m.chat, { text: dataMessage }, { quoted: m });      
       
     if (command === 'playyt') {
