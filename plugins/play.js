@@ -63,7 +63,9 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
       throw `*[ ℹ️ ] O̶c̶u̶r̶r̶i̶ó ̶u̶n ̶e̶r̶r̶o̶r. 𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞́𝐧𝐭𝐚𝐥𝐨 𝐝𝐞 𝐧𝐮𝐞𝐯𝐨 𝐦𝐚́𝐬 𝐭𝐚𝐫𝐝𝐞.*`;
     }
 
-    const dataMessage = `_*< DESCARGAS - PLAY V2 />*_\n\n▢ *̶T̶í̶t̶u̶l̶o:* ${data.resultado.title}\n▢ *𝐏𝐮𝐛𝐥𝐢𝐜𝐚𝐝𝐨:* ${data.resultado.publicDate}\n▢ *𝐂𝐚𝐧𝐚𝐥:* ${data.resultado.channel}\n▢ *𝐕𝐢́𝐝𝐞𝐨 𝐔𝐑𝐋:* ${data.resultado.url}`.trim();  
+    const dataMessage = `01:27 ━━━━━⬤──── 05:48
+*⇄ㅤ   ◁   ㅤ  ❚❚ㅤ     ▷ㅤ   ↻*
+𝙀𝙡𝙞𝙩𝙚 𝘽𝙤𝙩 𝙂𝙡𝙤𝙗𝙖𝙡 `.trim();  
     if (!text.includes('SN@') && command !== 'playyt') await conn.sendMessage(m.chat, { text: dataMessage }, { quoted: m });      
       
     if (command === 'playyt') {
