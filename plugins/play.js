@@ -15,7 +15,10 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
   const datas = global;
   device = await getDevice(m.key.id);
 
-  if (!text) throw `*[ ℹ️ ] 𝐇𝐚𝐜𝐞 𝐟𝐚𝐥𝐭𝐚 𝐞𝐥 𝐭𝐢́𝐭𝐮𝐥𝐨 𝐝𝐞𝐥 𝐯𝐢𝐝𝐞𝐨 𝐝𝐞 𝐘𝐨𝐮𝐓𝐮𝐛𝐞.*\n\n*[ 💡 ] Ejemplo:* _${usedPrefix + command} Good Feeling - Flo Rida_\n\n[ 💡 ] Ejemplo 2:* _${usedPrefix + command} https://youtu.be/JLWRZ8eWyZo?si=EmeS9fJvS_OkDk7p_`;
+  if (!text) throw `⭐ 𝘐𝘯𝘨𝘳𝘦𝘴𝘢 𝘦𝘭 𝘵𝘪́𝘵𝘶𝘭𝘰 𝘥𝘦 𝘭𝘢 𝘤𝘢𝘯𝘤𝘪𝘰́𝘯 𝘥𝘦 𝘠𝘰𝘶𝘛𝘶𝘣𝘦 𝘲𝘶𝘦 𝘥𝘦𝘴𝘦𝘢𝘴 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢𝘳.
+
+» 𝘌𝘫𝘦𝘮𝘱𝘭𝘰:
+.play Feid - Luna`;
   if (command === 'playyt' && (device == 'desktop' || device == 'web')) throw `*[❗] Los mensajes de botones aun no estan disponibles en WhatsApp web, acceda a su celular para poder ver y usar los mensajes con botones.*`;
   if (enviando) return;
   enviando = true;
