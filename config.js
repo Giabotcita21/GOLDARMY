@@ -70,6 +70,7 @@ global.APIs = {
   zenzapis: 'https://api.zahwazein.xyz',
   akuari: 'https://api.akuari.my.id',
   akuari2: 'https://apimu.my.id',	
+  fgmods: 'https://api.fgmods.xyz', 
   fgmods: 'https://api-fgmods.ddns.net',
   botcahx: 'https://api.botcahx.biz.id',
   ibeng: 'https://api.ibeng.tech/docs',	
