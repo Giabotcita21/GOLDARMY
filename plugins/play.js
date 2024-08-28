@@ -179,7 +179,13 @@ export default handler;
 async function isValidYouTubeLink(link) {
     const validPatterns = [/youtube\.com\/watch\?v=/i, /youtube\.com\/shorts\//i, /youtu\.be\//i, /youtube\.com\/embed\//i, /youtube\.com\/v\//i, /youtube\.com\/attribution_link\?a=/i, /yt\.be\//i, /googlevideo\.com\//i, /youtube\.com\.br\//i, /youtube-nocookie\.com\//i, /youtubeeducation\.com\//i, /m\.youtube\.com\//i, /youtubei\.googleapis\.com\//i];
     return validPatterns.some(pattern => pattern.test(link));
-}*/
+}
+
+
+
+
+
+
 import fetch from "node-fetch"
 import yts from "yt-search"
 import ytdl from 'ytdl-core'
