@@ -18,7 +18,7 @@ say('ELITE\nBOT\nGLOBAL', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Project Author:\n(@jeffomx15)\n\nColaborador:\nCLAN TOP ELITE`, {
+say(`Project Author:\n(Kevin)\n\nColaborador:\nProyectoX`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});
