@@ -124,26 +124,26 @@ global.vs = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇";
 global.vsJB = "2.0";
 
 global.gt = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇";
-global.yt = "";
-global.yt2 = "";
-global.ig = "";
-global.md = "";
-global.fb = "";
+global.yt = "https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG";
+global.yt2 = "https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG";
+global.ig = "https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG";
+global.md = "https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG";
+global.fb = "https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG";
 
-global.nna = '' //UPDATE 
-global.nn2 = '' //UPDATE 2
-global.nna2 = '' //Help
-global.nn = '' //Grupo 1
-global.nnn = '' //Grupo 2
-global.nnnt = '' //Grupo 3
-global.nnntt = '' //Grupo 4
-global.nnnttt = '' //Grupo 5
-global.nnnttt1 = '' //Grupo 6 COL
-global.nnnttt2 = '' //Grupo 7 COL
-global.nnnttt3 = '' //Grupo 8 COL
-global.nnnttt4 = '' //Grupo 9 COL
-global.nnnttt5 = '' //A.T.M.M
-global.paypal = ''
+global.nna = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //UPDATE 
+global.nn2 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //UPDATE 2
+global.nna2 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Help
+global.nn = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG' //A.T.M.M
+global.paypal = 'https://chat.whatsapp.com/DEIKM575c51Lqpfop0YgNG'
 global.asistencia = '' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
