@@ -10,7 +10,7 @@ let caption = `
 *╰•·–––––––––––––––––––·•*`.trim()
 
 await conn.reply(m.chat, caption, m, { mentions: await conn.parseMention(caption) })}
-/*conn.sendButton(m.chat, caption, `*Estos usuarios no puedes Usar a ELITE BOT*\n\n` + wm, null, [ 
+/*conn.sendButton(m.chat, caption, `*Estos usuarios no puedes Usar a SEBXS BOT*\n\n` + wm, null, [ 
 ['𝗠 𝗘 𝗡 𝗨 ☘️', '/menu']], m, { mentions: await conn.parseMention(caption) })}*/
 handler.command = /^listabanuser|listausuarios|listbanuser|listabaneados|listban$/i
 
