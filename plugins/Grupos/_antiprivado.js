@@ -7,15 +7,13 @@ export async function before(m, {isOwner, isROwner}) {
 
   if (bot.antiPrivate && !isOwner && !isROwner) {
     await m.reply(
-      `*Elite Bot Global es un bot mundial automatizado y tiene prohibido los mensajes a mi privado*
+     *SEBXS BOT es un bot privado y tiene prohibido los mensajes a mi privado*
  | Seras bloqueado 
  
-*Creador EBG:*
-👤 +593993370003
+*Creador SB:*
+👤 +593992402778
 
-Nota:
-Llega a mi privado solo si tienes dinero para comprar el servicio.
-Cero sapos y cero niños ratas.`,
+*Nota Del Creador:* *NO REGALO BOT A GRUPOS*`,
       false,
       {mentions: [m.sender]}
     );
