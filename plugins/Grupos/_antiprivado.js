@@ -9,7 +9,7 @@ export async function before(m, {isOwner, isROwner}) {
     await m.reply(
      sebxs bot es un bot privado y tiene prohibido los mensajes a mi privado | seras bloqueado.
  
-creador:
+Creador:
 👤 +593992402778
 
 nota: no regalo bot a ningún grupo
