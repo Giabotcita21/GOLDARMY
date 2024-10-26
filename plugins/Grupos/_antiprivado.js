@@ -13,7 +13,7 @@ export async function before(m, {isOwner, isROwner}) {
 Creador sb:*
 👤 +593992402778
 
-Nota: No regalo bot a ningún grupo
+Nota: no regalo bot a ningún grupo
 `,
       false,
       {mentions: [m.sender]}
