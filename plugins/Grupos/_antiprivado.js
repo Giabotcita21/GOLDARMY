@@ -13,7 +13,8 @@ export async function before(m, {isOwner, isROwner}) {
 *Creador SB:*
 👤 +593992402778
 
-*Nota Del Creador:* *NO REGALO BOT A GRUPOS*`,
+*Nota Del Creador: *NO REGALO BOT A GRUPOS*
+`,
       false,
       {mentions: [m.sender]}
     );
