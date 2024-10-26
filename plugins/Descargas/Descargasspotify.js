@@ -21,7 +21,7 @@ await conn.sendMessage(m.chat, {
 text: `*⌈📀 SPOTIFY PREMIUM 📀⌋*
 01:27 ━━━━━⬤──── 05:48
 *⇄ㅤ   ◁   ㅤ  ❚❚ㅤ     ▷ㅤ   ↻*
-𝙀𝙡𝙞𝙩𝙚 𝘽𝙤𝙩 𝙂𝙡𝙤𝙗𝙖𝙡`, 
+𝙎𝙚𝙗𝙭𝙨 𝘽𝙤𝙩`, 
 contextInfo: {
 externalAdReply: {
 title: yt_play[0].title,
