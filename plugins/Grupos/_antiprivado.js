@@ -10,11 +10,10 @@ export async function before(m, {isOwner, isROwner}) {
      *sebxs bot es un bot privado y tiene prohibido los mensajes a mi privado*
  | Seras bloqueado 
  
-*Creador SB:*
+Creador sb:*
 👤 +593992402778
 
-Nota Del Creador: 
-No regalo bot a ningún grupo
+Nota: No regalo bot a ningún grupo
 `,
       false,
       {mentions: [m.sender]}
