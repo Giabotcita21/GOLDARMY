@@ -7,7 +7,7 @@ export async function before(m, {isOwner, isROwner}) {
 
   if (bot.antiPrivate && !isOwner && !isROwner) {
     await m.reply(
-     *sebxs bot es un bot privado y tiene prohibido los mensajes a mi privado | Seras bloquead.o*
+     sebxs bot es un bot privado y tiene prohibido los mensajes a mi privado | seras bloqueado.
  
 Creador:
 👤 +593992402778
