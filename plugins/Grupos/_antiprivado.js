@@ -14,7 +14,7 @@ export async function before(m, {isOwner, isROwner}) {
 👤 +593992402778
 
 Nota Del Creador: 
-NO REGALO BOT A GRUPOS
+No regalo bot a ningún grupo
 `,
       false,
       {mentions: [m.sender]}
