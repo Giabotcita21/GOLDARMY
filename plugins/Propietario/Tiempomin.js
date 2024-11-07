@@ -9,7 +9,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     var now = new Date() * 1
     if (now < global.db.data.chats[who].expired) global.db.data.chats[who].expired += nMinutes
     else global.db.data.chats[who].expired = now + nMinutes
-    let teks = `🕔 Se activo la prueba gratis de SebxsBot, disfruta la variedad de comandos de Elite Bot con la palabra .menu \n\n» *Tiempo :* ${args[0]} Minutos\n\n*Cuenta regresiva :*\n ${msToDate(global.db.data.chats[who].expired - now)}\n\𝗦𝗲𝗯𝘅𝘀𝗕𝗼𝘁`
+    let teks = `🕔 Se activo la prueba gratis de SebxsBot, disfruta la variedad de comandos de Sebxs Bot con la palabra .menu \n\n» *Tiempo :* ${args[0]} Minutos\n\n*Cuenta regresiva :*\n ${msToDate(global.db.data.chats[who].expired - now)}\n\𝗦𝗲𝗯𝘅𝘀𝗕𝗼𝘁`
     conn.reply(m.chat, teks, m)
 }
 
