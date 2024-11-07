@@ -13,7 +13,7 @@ let handler = async (m, { conn, args, text, isOwner, usedPrefix, command }) => {
 
 » 𝗧𝗜𝗘𝗠𝗣𝗢: ${(conn.advnro[m.chat].time / 1000).toFixed(2)} segundos
 » 𝗥𝗘𝗖𝗢𝗠𝗣𝗘𝗡𝗦𝗔: Un takis 🍭
-╰─◆────⋆𝗘𝗕𝗚⋆─────◆─╯`
+╰─◆────⋆𝗦𝗕⋆─────◆─╯`
     let idmsg = await m.reply(teks)
     setTimeout(() => {
       if (conn.advnro[m.chat]) conn.reply(m.chat, `¡𝗦𝗘 𝗔𝗖𝗔𝗕𝗢 𝗘𝗟 𝗧𝗜𝗘𝗠𝗣𝗢!\n\𝗥𝗘𝗦𝗣𝗨𝗘𝗦𝗧𝗔: ${conn.advnro[m.chat].number}`, m, { quoted: idmsg })
