@@ -19,8 +19,20 @@ export default handler
 global.tiktokhot = [
 "https://telegra.ph/file/7266c4a284d0a2df54589.mp4",
 "https://telegra.ph/file/40c07f641420a80b0f8cf.mp4",
-  "https://telegra.ph/file/daa050ed7baa88ac2d4b8.mp4",
+ "https://telegra.ph/file/daa050ed7baa88ac2d4b8.mp4",
 "https://telegra.ph/file/cd493e2a01bc573f94638.mp4",
-  "https://telegra.ph/file/f18ec6e0a33f97c3d8710.mp4",
+
+"https://vm.tiktok.com/ZMhqL44Sk/",
+"https://vm.tiktok.com/ZMhqLmHuB/",
+"https://vm.tiktok.com/ZMhqL9g3h/",
+"https://vm.tiktok.com/ZMhqLUVaG/", 
+"https://vm.tiktok.com/ZMhqLyuat/",
+"https://vm.tiktok.com/ZMhqLDPU1/",
+"https://vm.tiktok.com/ZMhqNRsAH/",
+"https://vm.tiktok.com/ZMhqLv9sX/",
+"https://vm.tiktok.com/ZMhqLEceg/",
+"https://vm.tiktok.com/ZMhqLW264/",
+"https://vm.tiktok.com/ZMhqL7Bbv/",
+"https://vm.tiktok.com/ZMhqN8yjH/", "https://telegra.ph/file/f18ec6e0a33f97c3d8710.mp4",
 "https://telegra.ph/file/79816642cc73eb500d2fe.mp4"
 ]
