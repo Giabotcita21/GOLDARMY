@@ -1,5 +1,5 @@
 services:
-  - type: we
+  - type: web
     name: gatabot-md 
     env: docker
     region: Frankfurt
