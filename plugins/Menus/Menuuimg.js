@@ -59,7 +59,7 @@ let menu = `
 
  `.trim()
     
-const imagen5 = ['menu.jpg']
+const imagen5 = ['Menu1.jpg']
 
 try {
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: false, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
