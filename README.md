@@ -23,7 +23,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/PROYECTOEBG/ELITE-BOT/master/elite.sh | bash"
+"wget -O - https://raw.githubusercontent.com/sebasmpv/Sxbas-Bot/master/elite.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/elite.sh | bash"
@@ -32,10 +32,10 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/PROYECTOEBG/ELITE-BOT.git
+//Ejemplo: git clone https://github.com/sebasmpv/Sxbas-Bot.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd ELITE-BOT
+//Ejemplo: cd Sxbas-Bot
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
@@ -44,7 +44,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd
-> cd ELITE-BOT
+> cd Sxbas-Bot
 > npm start
 ```
 
