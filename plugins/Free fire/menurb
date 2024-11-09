@@ -451,7 +451,7 @@ let menu = `
 ╰━━━━━━⋆★⋆━━━━━━⬣
  `.trim()
     
-const vi = ['https://telegra.ph/scream1-11-08']}
+const vi = ['https://telegra.ph/scream1-11-08']
 
 try {
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
