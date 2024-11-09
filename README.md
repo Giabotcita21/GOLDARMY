@@ -1,4 +1,4 @@
-> <b>🚀 SEBXS BOT </b>
+> <b>🚀 𝑺𝑬𝑩𝑿𝑺 𝑩𝑶𝑻 </b>
  
 <p align="center"> 
 <a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=SEBXS+BOT+; ERES+EL+MEJOR+RECUÉRDALO+SIEMPRE.+%F0%9F%92%96" height="90px"></a> 
@@ -16,7 +16,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/PROYECTOEBG/ELITE-BOT/master/elite.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/sebasmpv/Sxbas-Bot/master/elite.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
@@ -53,7 +53,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A ELITE-BOT-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd ELITE-BOT
+> cd Sxbas-Bot
 > rm -rf GataBotSession
 > npm start
 ```
