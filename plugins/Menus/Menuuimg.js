@@ -59,10 +59,10 @@ let menu = `
 
  `.trim()
     
-const vi = ['https://imgur.com/TiaL3Ru']
+const imagen5 = ['menu.jpg']
 
 try {
-await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
+await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: false, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
 } catch (error) {
 try {
 await conn.sendMessage(m.chat, { image: { url: gataMenu.getRandom() }, gifPlayback: false, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
@@ -71,7 +71,7 @@ try {
 await conn.sendMessage(m.chat, { image: gataImg.getRandom(), gifPlayback: false, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
 } catch (error) {
 try{
-await conn.sendFile(m.chat, imagen5, 'menu.jpg', menu, fkontak, false, { mentions: [m.sender, global.conn.user.jid] })
+await conn.sendFile(m.chat, imagen5, 'menu.jpg', menu, fkontak, true, { mentions: [m.sender, global.conn.user.jid] })
 } catch (error) {
 return 
 }}}} 
