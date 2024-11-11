@@ -1,7 +1,7 @@
 { pkgs }: {
     deps = [
         pkgs.nodejs
-        pkgs.nodePackages.typescrip
+        pkgs.nodePackages.typescript
         pkgs.ffmpeg
         pkgs.imagemagick
         pkgs.git
