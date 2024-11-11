@@ -4,7 +4,7 @@ function addMsg(obj) {
   let html = document.createElement('span')
   html.className = 'msg'
   html.innerHTML = obj
-  chat.appendChild(html)
+  chat.appendChild()
 }
 
 window.onclick = () => addMsg(12)
