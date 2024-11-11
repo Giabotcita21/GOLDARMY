@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/GataNina-Li/GataBot-MD
 
-WORKDIR /root/ÉLITE BOT 
+WORKDIR /root/SEBXS BOT 
 
-COPY ./root/ÉLITE BOT 
+COPY ./root/SEBXS BOT 
 
 RUN yarn install
 
