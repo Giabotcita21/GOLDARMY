@@ -8,9 +8,9 @@ let handler = async (m) => {
   let media = await q.download()
   let isTele = /image\/(png|jpe?g|gif)|video\/mp4/.test(mime)
   let link = await (isTele ? uploadImage : uploadFile)(media)
-  m.reply(`𝗣𝗘𝗦𝗢 𝗗𝗘𝗟 𝗔𝗥𝗖𝗛𝗜𝗩𝗢 📁\n${media.length} Byte(s) 
+  m.reply(`𝑷𝑬𝑺𝑶 𝑫𝑬𝑳 𝑨𝑹𝑪𝑯𝑰𝑽𝑶  📁\n${media.length} Byte(s) 
 
-⭐ ${isTele ? '𝖲𝖨𝖭 𝖥𝖤𝖢𝖧𝖠 𝖣𝖤 𝖢𝖠𝖣𝖴𝖢𝖨𝖣𝖠𝖣' : '(Desconocido)'} 
+⭐ ${isTele ? '𝑺𝑰𝑵 𝑭𝑬𝑪𝑯𝑨 𝑫𝑬 𝑪𝑨𝑫𝑼𝑪𝑰𝑫𝑨𝑫' : '(Desconocido)'} 
 🌎 𝖫𝖨𝖭𝖪:\n${link}
   `)
 }
