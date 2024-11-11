@@ -4,6 +4,6 @@ while :
 do
 echo ""
     npm start
-    sleep 
+    sleep 1
 
 done 
