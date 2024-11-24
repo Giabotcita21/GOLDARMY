@@ -11,7 +11,7 @@ const cat = `𝗖𝗥𝗘𝗔𝗗𝗢𝗥 𝗗𝗘 𝗦𝗘𝗕𝗫𝗦 𝗕𝗢
 𝗧𝗞: https://www.tiktok.com/@sebas.mvp_official0?_t=8qsV2gtNLDK&_r=1
 
 🪀 𝗖𝗢𝗠𝗨𝗡𝗜𝗗𝗔𝗗
-https://chat.whatsapp.com/IRTzO1BlH81Ay0Kfhqz2Wa`
+https://chat.whatsapp.com/Lg51pj9m3Lv3pjh1FDu4BK`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
 }
