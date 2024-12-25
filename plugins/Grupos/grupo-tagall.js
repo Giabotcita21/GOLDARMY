@@ -8,10 +8,10 @@ throw false
 let pesan = args.join` `
 let oi = `📩 ${lenguajeGB['smsAddB5']()} ${pesan}`
 let teks = `*╭━* ${lenguajeGB['smstagaa']()} \n\n${oi}\n`
-teks += `👤 𝙈𝙄𝙀𝙈𝘽𝙍𝙊𝙎: *${participants.length}*\n\n`
+teks += `🥷🏼 𝙈𝙄𝙀𝙈𝘽𝙍𝙊𝙎: *${participants.length}*\n\n`
 for (let mem of participants) {
    
-teks += `┃👤@${mem.id.split('@')[0]}\n`}
+teks += `┃🥷🏼 @${mem.id.split('@')[0]}\n`}
 teks += `\n` 
 teks += `*╰━* 𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏
 ▌│█║▌║▌║║▌║▌║▌║█`
