@@ -97,10 +97,7 @@ let menu = `
 
  
  `.trim()
-    
-const vi = ['https://telegra.ph/file/77e7231ff8730faee8e6c.mp4',
-'https://telegra.ph/file/77e7231ff8730faee8e6c.mp4',
-'https://telegra.ph/file/77e7231ff8730faee8e6c.mp4']
+   
 
 try {
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
