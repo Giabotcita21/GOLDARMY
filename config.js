@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593992402778", '𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏', true], //𝖲𝖾𝖻𝗑𝗌𝖡𝗈𝗍
+["593990990112", '𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏', true], //𝖲𝖾𝖻𝗑𝗌𝖡𝗈𝗍
 [""], 
 [""], 
 [""], 
@@ -104,11 +104,11 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["593992402778", 'Sebxs 💻', 1], 
-["593992402778", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["593992402778", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["593992402778", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["593992402778", 'Prueba', 1]];
+["593990990112", 'Sebxs 💻', 1], 
+["593990990112", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["593990990112", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["593990990112", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["593990990112", 'Prueba', 1]];
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
@@ -184,7 +184,7 @@ global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
 global.waitttt = "*🚀 P R O C E S A N D O*";
-global.nomorown = "593992402778";
+global.nomorown = "593990990112";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
