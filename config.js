@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51990185462", '𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏', true], //𝖲𝖾𝖻𝗑𝗌𝖡𝗈𝗍
+["51990185462", '𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏', true], //Gold Army
 ["51990185462"], 
 ["51990185462"], 
 ["51990185462"], 
@@ -91,7 +91,7 @@ global.APIKeys = {
   'https://api-xcoders.site': 'Frieren'
 };
 
-global.mods = []; 
+global.mods = ["51990185462"]; 
 
 
 /*************************/
@@ -178,8 +178,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏 ";
-global.igfg = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏 ";
+global.wm = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.igfg = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
 global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
