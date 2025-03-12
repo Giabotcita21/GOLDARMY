@@ -11,14 +11,14 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593990990112", '𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏', true], //𝖲𝖾𝖻𝗑𝗌𝖡𝗈𝗍
-[""], 
-[""], 
-[""], 
-[""],
-[""],
-[""],
-[""]]
+["51990185462", '𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏', true], //𝖲𝖾𝖻𝗑𝗌𝖡𝗈𝗍
+["51990185462"], 
+["51990185462"], 
+["51990185462"], 
+["51990185462"],
+["51990185462"],
+["51990185462"],
+["51990185462"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -104,31 +104,31 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["593990990112", 'Sebxs 💻', 1], 
-["593990990112", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["593990990112", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["593990990112", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["593990990112", 'Prueba', 1]];
+["51990185462", 'GoldArmy 💻', 1], 
+["51990185462", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["51990185462", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["51990185462", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["51990185462", 'Prueba', 1]];
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏";
-global.author = "";
+global.packname = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.author = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = "𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏";
+global.vs = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
 global.vsJB = "2.0";
 
-global.gt = "𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏";
-global.yt = "";
-global.yt2 = "";
-global.ig = "";
-global.md = "";
-global.fb = "";
+global.gt = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.yt = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.yt2 = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.ig = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.md = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
+global.fb = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏";
 
 global.nna = '' //UPDATE 
 global.nn2 = '' //UPDATE 2
@@ -178,13 +178,13 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏 ";
-global.igfg = "𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏 ";
+global.wm = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏 ";
+global.igfg = "𝙂𝙊𝙇𝘿 𝘼𝙍𝙈𝙔 𝘽𝙊𝙏 ";
 global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
 global.waitttt = "*🚀 P R O C E S A N D O*";
-global.nomorown = "593990990112";
+global.nomorown = "51990185462";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
