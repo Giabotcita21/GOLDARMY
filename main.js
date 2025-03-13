@@ -131,7 +131,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
 },
-browser: ['𝙎𝙀𝘽𝙓𝙎 𝘽𝙊𝙏','',''],
+browser: ['Gold Army','',''],
 version,
 defaultQueryTimeoutMs: undefined,
 };
